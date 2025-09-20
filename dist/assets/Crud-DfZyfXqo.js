@@ -1,0 +1,1 @@
+import{_ as t,o,c as a,b as s}from"./index-DkX4BNO-.js";const c={},r={class:"card"};function d(n,e){return o(),a("div",r,e[0]||(e[0]=[s("div",{class:"font-semibold text-2xl mb-4"},"Хакатон",-1),s("p",{class:"text-lg mb-4"}," Информация о хакатоне скоро будет добавлены. ",-1)]))}const _=t(c,[["render",d],["__scopeId","data-v-18f2afff"]]);export{_ as default};
