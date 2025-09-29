@@ -1,0 +1,1 @@
+import{_ as s,o,c,b as t}from"./index-5WbMg6Wh.js";const a={},n={class:"card"};function r(d,e){return o(),c("div",n,e[0]||(e[0]=[t("div",{class:"font-semibold text-2xl mb-4"},"Документация",-1),t("p",{class:"text-lg mb-4"}," Документация проекта На Автопилоте находится на реконструкции. ",-1)]))}const l=s(a,[["render",r],["__scopeId","data-v-ec1ba495"]]);export{l as default};
